@@ -5,6 +5,7 @@
 [![Contact_me_at_Email](https://img.shields.io/badge/Call_me_at-Email-brightgreen?style=flat-square)](mailto:pp520yo@gmail.com)
 # 前言
 这个程序本身定位是自用,因为本人需要住宿.如今开源,请勿滥用!
+还有,希望大佬们可以把一些签到续命的jc分享到Issues,通过后将放在下方公示
 # 使用方法
 先把'.github/workflows/blank.yml'里的注释去掉,并且根据注释来修改自己的代码
 
@@ -58,9 +59,7 @@ cron指的是crontab,也就是定时任务,请按照cron表达式格式编写
 ```
 # 申请适配
 
-申请适配面板程序请提交Issues,也可以通过邮件联系(联系方式在最上面)
+申请适配面板程序(也可以单独适配某些特别机场,只要我有时间)请提交Issues,也可以通过邮件联系(联系方式在最上面)
 
-
-
-# 目前支持
+# 目前支持程序
 > sspanel
