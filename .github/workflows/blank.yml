@@ -1,0 +1,24 @@
+name: Auto_Checkin
+on:
+#  schedule:
+#    - cron: 0 16 * * *
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+    steps:
+    - name: Install_Python
+      run: |
+        sudo apt install python3
+        sudo apt install python3-pip
+        wget https://bootstrap.pypa.io/get-pip.py --no-check-certificate
+        python3 ./get-pip.py
+        pip3 install requests
+        pip3 install fake-useragent
+        git clone  #git地址
+    - name: Run_Python_Script
+      run: |
+        cd #目录名
+        python3 checkin.py
