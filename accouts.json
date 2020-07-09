@@ -1,0 +1,18 @@
+{
+	"sp":
+	[
+		{
+		"name":"xxx",
+		"url":
+			{
+				"lu":"https://xxx/auth/login",
+				"cu":"https://xxx/user/checkin"
+			},
+		"ac":
+			{
+				"u":"xxx",
+				"p":"xxx"
+			}
+		}
+	]
+}
