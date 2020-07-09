@@ -2,6 +2,7 @@
 [![License](https://img.shields.io/github/license/PPKunOffical/SAuto_Checkin?style=flat-square)](https://github.com/PPKunOffical/SAuto_Checkin/blob/master/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/PPKunOffical/SAuto_Checkin?style=flat-square&color=328657)
 [![Contact_me_at_Telegram](https://img.shields.io/badge/Call_me_at-Telegram-brightgreen?style=flat-square)](https://t.me/PP_Kun)
+[![Contact_me_at_Email](https://img.shields.io/badge/Call_me_at-Email-brightgreen?style=flat-square)](pp520yo@gmail.com)
 # 前言
 这个程序本身定位是自用,因为本人需要住宿.如今开源,请勿滥用!
 # 使用方法
@@ -57,9 +58,9 @@ cron指的是crontab,也就是定时任务,请按照cron表达式格式编写
 ```
 # 申请适配
 
-申请适配面板程序请提交"Issues",也可以通过邮件联系
+申请适配面板程序请提交Issues,也可以通过邮件联系(联系方式在最上面)
 
-pp520yo@gmail.com
+
 
 # 目前支持
 > sspanel
