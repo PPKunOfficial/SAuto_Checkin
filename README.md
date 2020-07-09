@@ -1,3 +1,4 @@
+# .github/workflows/blank.yml请根据自己的需求进行调整
 # 务必编写正确json，程序会自动循环sp里的列表
 Json格式:
 
