@@ -1,8 +1,8 @@
 # 一款自动签到程序
 [![License](https://img.shields.io/github/license/PPKunOffical/SAuto_Checkin?style=flat-square)](https://github.com/PPKunOffical/SAuto_Checkin/blob/master/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/PPKunOffical/SAuto_Checkin?style=flat-square&color=328657)
-[![Contact_me_at_Telegram](https://img.shields.io/badge/Call_me_at-Telegram-brightgreen?style=flat-square)](https://t.me/PP_Kun)
-[![Contact_me_at_Email](https://img.shields.io/badge/Call_me_at-Email-brightgreen?style=flat-square)](mailto:pp520yo@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-PPKun-brightgreen?style=flat-square)](https://t.me/PP_Kun)
+[![Email](https://img.shields.io/badge/Email-PPKun-brightgreen?style=flat-square)](mailto:pp520yo@gmail.com)
 # 前言
 这个程序本身定位是自用,因为本人需要住宿.如今开源,请勿滥用!
 
