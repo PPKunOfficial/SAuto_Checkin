@@ -14,9 +14,9 @@ for i in accouts["sp"]:
 	headers={
 			"user-agent":ua.random
 			}
-	print(headers)
+	print("User-Agent:"+headers)
 	lose=requests.Session()
 	login_res=lose.post(login_url,data=login_data,headers=headers).content.decode("unicode-escape")
 	checkin_res=lose.post(checkin_url,headers=headers).content.decode("unicode-escape")
 	data_checkin=checkin_res
-	print(data_checkin,"\n")
+	print("Return Json:"+data_checkin,"\n")
